@@ -1,3 +1,8 @@
+# Add ignore to assets that are installable, e.g. FMV engine and TextMeshPro
+#
+/[Aa]ssets/CharlesFMVEngine
+/[Aa]ssets/TextMesh Pro
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
