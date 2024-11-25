@@ -14,9 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   UseI2Localization: 0
   PauseMenuPrefab: {fileID: 0}
-  DialogChoicePrefab: {fileID: 0}
+  DialogChoicePrefab: {fileID: 6952770248755173999, guid: fbe25e2e2911e6d4cbe22550809a88d6, type: 3}
   GlobalsPluginsPrefab: {fileID: 0}
-  Languages: []
+  Languages:
+  - en
   Resolution: {x: 1920, y: 1080}
   DefaultFont: {fileID: 0}
   ForkOverlayAlpha: 0

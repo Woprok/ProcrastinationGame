@@ -6,6 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Computer.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/CharlesFMVEngine/Engine/Scenes/Master.unity
+    guid: 36f8ccdeb686e96458fa281e10eae985
+  - enabled: 1
+    path: Assets/Scenes/DialogInitial.unity
+    guid: 00c1f8e28f6b07440aa266d355c59ebf
+  - enabled: 1
+    path: Assets/Scenes/DialogYoutube.unity
+    guid: be2eb087b29f802418d60b589de98fa3
+  - enabled: 1
+    path: Assets/Scenes/DialogTextbook.unity
+    guid: adbdff3d6595b894d884b924e4cabce9
+  - enabled: 1
+    path: Assets/Scenes/DialogSteam.unity
+    guid: 6eb4302b242b44748b0a9ba0c0fb6c89
+  - enabled: 1
+    path: Assets/Scenes/DialogSocial.unity
+    guid: cc9220b0dbff2c4449721217822fbbdf
+  - enabled: 1
+    path: Assets/Scenes/DialogMotivation.unity
+    guid: 4402f5e68d591cb4fb22d0aab8e49189
   m_configObjects: {}
